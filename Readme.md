@@ -1,9 +1,9 @@
 # 4142-Project-P2
 This is the material for Phase 2 of the Course Project<br />
 	
-Data:<br />
+Data:<br /><br />
     The CSV files include both raw and transformed datasets, with each dimension of our data model.<br /><br />
-Scripts and Notebooks:<br />
+Scripts and Notebooks:<br /><br />
     CSI4142_GroupProject.ipynb: Jupyter notebook containing our data analysis and exploration code.<br /><br />
     Fkey_import.sql: SQL script for importing foreign keys and handling relational integrity.<br /><br />
     project.sql: Comprehensive SQL script containing queries used throughout the project.<br /><br />
